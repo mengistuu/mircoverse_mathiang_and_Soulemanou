@@ -1,0 +1,13 @@
+@media only scren and (max-width:600px){
+body{
+  background-color:red;
+}
+}
+#welcome-section{
+  height: 1366px;
+  margin:auto;
+}
+#navbar{
+  position: fixed;
+  bottom: 0;
+}
